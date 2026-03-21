@@ -9,13 +9,11 @@ Final-year Computer Science student focused on Software Engineering and backend 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kishan-rao&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Kishan-rao&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kishan-rao&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-rao&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kishan-rao&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-rao&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
