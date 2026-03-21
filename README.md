@@ -1,7 +1,5 @@
 # 💫 About Me:
 Final-year Computer Science student focused on Software Engineering and backend development. Proficient <br>in Java, JavaScript, and web technologies with experience building full-stack applications and Al- driven <br>projects. Actively strengthening problem-solving skills through Data Structures and Algorithms while <br>developing scalable software systems.
-Final-year Computer Science student focused on Software Engineering and backend development. Proficient<br>in Java, JavaScript, and web technologies with experience building full-stack applications and Al- driven<br>projects. Actively strengthening problem-solving skills through Data Structures and Algorithms while<br>developing scalable software systems.
-
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ykishanrao05@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kishan-r-6315972b1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Far_Estate3834/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32525834/kishan-rao) 
