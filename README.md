@@ -3,7 +3,7 @@ Final-year Computer Science student focused on Software Engineering and backend 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kishan-r-6315972b1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Kishan Rao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ykishanrao05@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kishan-r-6315972b1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ykishanrao05@gmail.com) [![reddit](https://www.reddit.com/user/Far_Estate3834/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kishan-rao&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kishan-rao&theme=dark&hide_border=false)<br/>
