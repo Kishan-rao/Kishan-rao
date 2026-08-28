@@ -1,29 +1,36 @@
 <h1 align="center">Hi 👋, I'm Y Kishan Rao</h1>
 
-<h3 align="center">Full Stack Developer • Java & Spring Boot • Building real-world applications</h3>
+<h3 align="center">
+  Full Stack Developer focused on Java, Spring Boot & Backend Engineering
+</h3>
 
 <p align="center">
-  <a href="https://my-portfolio-pk9r.onrender.com/">Portfolio</a> •
-  <a href="https://linkedin.com/in/kishan-r-6315972b1">LinkedIn</a> •
-  <a href="mailto:ykishanrao05@gmail.com">Email</a>
+  <a href="https://my-portfolio-pk9r.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/kishan-r-6315972b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ykishanrao05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science student from India
-* 💻 Interested in **Full Stack Development and Backend Engineering**
-* ☕ Currently focusing on **Java, Spring Boot, REST APIs and backend architecture**
-* 🚀 Building projects that solve real-world problems rather than just tutorials
-* 🧩 Interested in **system design, databases, APIs and scalable applications**
-* 🌐 Check out my projects: **[Portfolio](https://my-portfolio-pk9r.onrender.com/)**
+- 🔭 Currently building **[Connectify](https://github.com/Kishan-rao/Connectify)**
+- 🌱 Currently learning **Java, Spring Boot, REST APIs & Backend Development**
+- 💻 Interested in **backend engineering, APIs, databases and scalable applications**
+- 🚀 I enjoy building **real-world full-stack applications**
+- 🌐 Explore my projects on my **[portfolio](https://my-portfolio-pk9r.onrender.com/)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
@@ -33,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
@@ -42,46 +49,47 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
 </p>
 
-### Tools & DevOps
+### 🧰 Tools & DevOps
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45" alt="Jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🌐 [Connectify](https://github.com/Kishan-rao/Connectify)
+
+A social networking platform where users can create profiles, share content and interact through likes, comments, followers and personalized feeds.
+
+**Focus:** Full-stack development • Authentication • REST APIs • Social features • Profile management • Database design
+
+---
+
 ### 🤝 DonateConnect
 
 A platform designed to connect people willing to donate resources with organizations and individuals who need them.
 
-**Focus:** Full-stack development • Authentication • REST APIs • Image verification • Database design
-
-
-
-## 🌐 Connectify
-
-A social networking platform focused on connecting users, sharing content, and interacting through posts, likes, comments, followers, and personalized profiles.
-
-***Focus:*** Full-stack development • User authentication • REST APIs • Social features • Profile management • Database design
+**Focus:** Full-stack development • Authentication • REST APIs • Donation management • Image verification • Database design
 
 ---
 
@@ -101,14 +109,14 @@ A social networking platform focused on connecting users, sharing content, and i
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:ykishanrao05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/kishan-r-6315972b1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://dev.to/kishan_rao_6f3c0fd3f9d982">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DEV.to-Read%20My%20Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="mailto:ykishanrao05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
