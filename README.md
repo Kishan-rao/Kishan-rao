@@ -75,13 +75,13 @@ A platform designed to connect people willing to donate resources with organizat
 
 **Focus:** Full-stack development • Authentication • REST APIs • Image verification • Database design
 
-### 🌾 Indian Agricultural Yield Analytics
 
-A big-data analytics project focused on understanding and predicting agricultural yield using historical crop, soil and weather data.
 
-**Focus:** Data Analytics • Machine Learning • Data Visualization • Forecasting
+##Connectify
 
-> More projects and details are available on my **[portfolio](https://my-portfolio-pk9r.onrender.com/)**.
+###A social networking platform focused on connecting users, sharing content, and interacting through posts, likes, comments, followers, and personalized profiles.
+
+***Focus:*** Full-stack development • User authentication • REST APIs • Social features • Profile management • Database design
 
 ---
 
