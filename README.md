@@ -77,9 +77,9 @@ A platform designed to connect people willing to donate resources with organizat
 
 
 
-##Connectify
+## 🌐 Connectify
 
-###A social networking platform focused on connecting users, sharing content, and interacting through posts, likes, comments, followers, and personalized profiles.
+A social networking platform focused on connecting users, sharing content, and interacting through posts, likes, comments, followers, and personalized profiles.
 
 ***Focus:*** Full-stack development • User authentication • REST APIs • Social features • Profile management • Database design
 
