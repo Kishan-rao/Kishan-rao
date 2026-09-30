@@ -113,7 +113,7 @@ A platform designed to connect people willing to donate resources with organizat
 </p>
 
 <p>
-<b>Focus:</b> Full-stack development • Authentication • REST APIs • Donation management • Image verification • Database design
+<b>Focus:</b> Full stack development • Authentication • REST APIs • Donation management • Image verification • Database design
 </p>
 
 <p>
